@@ -29,4 +29,4 @@ Skills: MYSQL / Laravel / PHP / REACT / JavaScript / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=GiasMahmud)  
 
-<!-- ![Profile views](https://gpvc.arturio.dev/GiasMahmud) -->
+![Profile views](https://gpvc.arturio.dev/GiasMahmud)
