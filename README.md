@@ -1,15 +1,15 @@
-![I am  a junior Web Developer](https://my.bdjobs.com/photos/6500001-6525000/2616516126p6k7n.jpg)
+![I am  a junior Software Engineer & Web Developer](https://my.bdjobs.com/photos/6500001-6525000/2616516126p6k7n.jpg)
 ### Hi there 👋, my name is Md Gias Uddin
-#### I am  a junior Web Developer
+#### I am  a junior Software Engineer and Web Developer
 
-I have completed my BSc in CSE degree from the Dept. of Computer Science & Engineering. I`m passionate about harnessing the power of technology to solve complex problems. I have over 2 years of experience in the tech Industry. That enhanced my technical capacity and performance. I bring unique skills in Programming, Web development, Software Development, and SEO. With a deep passion for technology and a commitment to staying at the forefront of digital trends.
+I have completed my BSc in CSE degree from the Dept. of Computer Science & Engineering. I`m passionate about harnessing the power of technology to solve complex problems. I have over 1 years of experience in the tech Industry. That enhanced my technical capacity and performance. I bring unique skills in Programming, Software Development, Web development, and SEO. With a deep passion for technology and a commitment to staying at the forefront of digital trends.
 
-Skills: MYSQL/PHP/REACT / JS / HTML / CSS
+Skills: MYSQL / Laravel / PHP / REACT / JavaScript / HTML / CSS
 
-- 🔭 I’m currently working on Khidma Software 
+- 🔭 I’m currently working on UY Systems Ltd. 
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web development, Web Development and SEO.
 - 📫 How to reach me: gias.cse191@gmail.com 
 
 
