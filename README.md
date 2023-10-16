@@ -9,7 +9,7 @@ Skills: MYSQL / Laravel / PHP / REACT / JavaScript / HTML / CSS
 - 🔭 I’m currently working on UY Systems Ltd. 
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web development, Web Development and SEO.
+- 💬 Ask me about Software development, Web Development and SEO.
 - 📫 How to reach me: gias.cse191@gmail.com 
 
 
