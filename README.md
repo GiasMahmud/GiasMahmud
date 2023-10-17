@@ -2,14 +2,14 @@
 ### Hi there 👋, my name is Md Gias Uddin
 #### I am  a junior Software Engineer and Web Developer
 
-I have completed my BSc in CSE degree from the Dept. of Computer Science & Engineering. I`m passionate about harnessing the power of technology to solve complex problems. I have over 1 years of experience in the tech Industry. That enhanced my technical capacity and performance. I bring unique skills in Programming, Software Development, Web development, and SEO. With a deep passion for technology and a commitment to staying at the forefront of digital trends.
+I have completed my BSc in CSE degree from the Dept. of Computer Science & Engineering. I`m passionate about harnessing the power of technology to solve complex problems. I have over 1 year of experience in the tech Industry. That enhanced my technical capacity and performance. I bring unique skills in Programming, Software Development, Web development, and SEO. With a deep passion for technology and a commitment to staying at the forefront of digital trends.
 
 Skills: MYSQL / Laravel / PHP / REACT / JavaScript / HTML / CSS
 
 - 🔭 I’m currently working on UY Systems Ltd. 
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Software development, Web Development and SEO.
+- 💬 Ask me about Software development, Web Development, and SEO.
 - 📫 How to reach me: gias.cse191@gmail.com 
 
 
