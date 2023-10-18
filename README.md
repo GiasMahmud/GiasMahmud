@@ -10,7 +10,7 @@ Skills: MYSQL / Laravel / PHP / REACT / JavaScript / HTML / CSS
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Software development, Web Development, and SEO.
-- 📫 How to reach me: gias.cse191@gmail.com 
+- 📫 How to reach me: mdgias181@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GiasMahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pro-seo-speacialist/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.showwcase.com/giascse191)  
