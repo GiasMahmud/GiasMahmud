@@ -7,7 +7,7 @@ I have completed my BSc in CSE degree from the Dept. of Computer Science & Engin
 Skills: MYSQL / Laravel / PHP / REACT / JavaScript / HTML / CSS
 
 - 🔭 I’m currently working on UY Systems Ltd. 
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning PHP and Laravel 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Software development, Web Development, and SEO.
 - 📫 How to reach me: mdgias181@gmail.com 
