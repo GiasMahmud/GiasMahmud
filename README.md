@@ -1,4 +1,4 @@
-![I am  a junior Software Engineer & Web Developer](https://my.bdjobs.com/photos/6500001-6525000/2616516126p6k7n.jpg)
+![I am  a junior Software Engineer and web Developer](https://my.bdjobs.com/photos/6500001-6525000/2616516126p6k7n.jpg)
 ### Hi there 👋, my name is Md Gias Uddin
 #### I am  a junior Software Engineer and Web Developer
 
@@ -7,8 +7,8 @@ I have completed my BSc in CSE degree from the Dept. of Computer Science & Engin
 Skills: MYSQL / Laravel / PHP / REACT / JavaScript / HTML / CSS
 
 - 🔭 I’m currently working on UY Systems Ltd. 
-- 🌱 I’m currently learning PHP and Laravel 
-- 👯 I’m looking to collaborate on GitHub 
+- 🌱 I’m currently learning PHP, Laravel, and MYSQL.
+- 👯 I’m looking to collaborate on GitHub. 
 - 💬 Ask me about Software development, Web Development, and SEO.
 - 📫 How to reach me: mdgias181@gmail.com 
 
