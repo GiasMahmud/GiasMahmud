@@ -1,4 +1,4 @@
-![I am  a junior Software Engineer and web Developer]([https://media.licdn.com/dms/image/D5616AQFs8Asd-1U7rg/profile-displaybackgroundimage-shrink_350_1400/0/1707333919134?e=1712793600&v=beta&t=2418W4ICNvPwORu25gApz1wdN4zeyzqJ9EVq4diztdo](https://media.licdn.com/dms/image/D5616AQFs8Asd-1U7rg/profile-displaybackgroundimage-shrink_350_1400/0/1707333919134?e=1723075200&v=beta&t=DaN9ewaTioqtDB5e4VNI5zJo2LtG-7czTl54dERF-vs))
+![I am  a junior Software Engineer and web Developer](https://media.licdn.com/dms/image/D5616AQFs8Asd-1U7rg/profile-displaybackgroundimage-shrink_350_1400/0/1707333919134?e=1723075200&v=beta&t=DaN9ewaTioqtDB5e4VNI5zJo2LtG-7czTl54dERF-vs)
 ### Hi there 👋, my name is Md Gias Uddin
 #### I am  a junior Web Developer and SEO Specialist
 
